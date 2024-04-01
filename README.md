@@ -1,12 +1,11 @@
-## Hi, I am Habib Ullah
-### Oracle Apex Developer
+## Hi, I am Habib Ullah <br> Oracle Apex Developer
 
 Experienced Oracle APEX Developer and proficient Oracle Forms and Reports Developer with a solid foundation in Oracle SQL and PL/SQL. Adept at crafting dynamic, user-centric applications that bridge the gap between back-end functionality and intuitive front-end interfaces. Demonstrated expertise in project work, emphasizing collaborative problem-solving and delivering high-quality solutions. Eager to contribute my skills to a dynamic team, driving innovation in application development and database solutions.
 
-#### Skills: 
+### Skills: 
 Oracle Apex <br>
-Oracle Forms & Reports
-Oracle SQL, PL/SQL
+Oracle Forms & Reports <br>
+Oracle SQL, PL/SQL <br>
 Oracle Database
 
 ##### Connect with me 
